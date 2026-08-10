@@ -9,8 +9,6 @@ http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 http://45.190.28.50/AXN_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-name="BBC Earth (1080p)" group-title="Documentary",BBC Earth (1080p)
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kcmHcSx.png" tvg-name="BBC Food (1080p)" group-title="Cooking",BBC Food (1080p)
-https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VBKoLHk.png" tvg-name="Bellator MMA" group-title="Sports",Bellator MMA
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG_1759338280891.png" tvg-name="BET Cinema" group-title="Movies",BET Cinema
@@ -19,8 +17,6 @@ https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uENch0P.png" tvg-name="Comedy Central Animation" group-title="Comedy",Comedy Central Animation
 https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2FlIQUO.png" tvg-name="Animax" group-title="Animation",Animax
-https://akariko-bck1.sankuria.sbs/stream/jp/animax/stream-output.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" tvg-name="Disney XD (720p)" group-title="Kids",Disney XD (720p)
 http://40.160.24.52/DISNEY_XD_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWFDkap.png" tvg-name="E! (1080p)" group-title="Entertainment",E! (1080p)
@@ -47,18 +43,10 @@ https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/mast
 http://40.160.24.53/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWmqYTO.png" tvg-name="Lifetime Movies (1080p)" group-title="Movies",Lifetime Movies (1080p)
 http://23.237.104.106:8080/USA_LMN/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" tvg-name="Mr. Bean Animated (1080p)" group-title="Animation;Kids",Mr. Bean Animated (1080p)
-https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-name="MTV (720p)" group-title="Entertainment",MTV (720p)
-http://41.205.70.146/MTVFRANCE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3UByLqb.png" tvg-name="MTV Live (1080p)" group-title="Music",MTV Live (1080p)
 http://40.160.24.53/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-name="National Geographic (1080p)" group-title="Documentary",National Geographic (1080p)
-http://138.121.15.230:9002/NAT-GEO/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" tvg-name="NBA TV (1080p)" group-title="Sports",NBA TV (1080p)
 https://cdn1.ayitistream.com/NBATV/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" tvg-name="NFL Network (720p)" group-title="Sports",NFL Network (720p)
-http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-name="Nickelodeon (1080p)" group-title="Kids",Nickelodeon (1080p)
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kh4MWaY.png" tvg-name="Outdoor Channel HD (1080p)" group-title="Outdoor",Outdoor Channel HD (1080p)
@@ -67,22 +55,14 @@ http://40.160.24.55/OUTDOOR_CHANNEL/index.m3u8
 http://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q4cUQKW.png" tvg-name="PBS Kids (720p)" group-title="Education;Kids",PBS Kids (720p)
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png" tvg-name="Pluto TV Anime" group-title="Animation",Pluto TV Anime
-https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67ed8f7e443f0671bc2b2368/colorLogoPNG.png" tvg-name="Pluto TV Anime Movies" group-title="Animation",Pluto TV Anime Movies
 https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" tvg-name="Red Bull TV (1080p)" group-title="Outdoor;Sports",Red Bull TV (1080p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kuqkTMC.png" tvg-name="Red+ (1080p)" group-title="Entertainment;General;News",Red+ (1080p)
-https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png" tvg-name="Showtime Family Zone (720p)" group-title="Family",Showtime Family Zone (720p)
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" tvg-name="SNL Vault (1080p)" group-title="Comedy",SNL Vault (1080p)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" tvg-name="Sony Movies (720p)" group-title="Movies",Sony Movies (720p)
 http://45.162.64.114/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KeIhwNP.png" tvg-name="TED (1080p)" group-title="Undefined",TED (1080p)
-https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png" tvg-name="TeenNick (720p)" group-title="Kids",TeenNick (720p)
 http://40.160.24.55/TEEN_NICK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tsljAnY.png" tvg-name="Tennis Channel (1080p)" group-title="Sports",Tennis Channel (1080p)
@@ -91,8 +71,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65c69bf23ef47d0008583967/colorLogoPNG.png" tvg-name="Tough Jobs" group-title="Entertainment",Tough Jobs
 https://jmp2.uk/plu-65c69bf23ef47d0008583967.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eRFE0jZ.png" tvg-name="TSN1 (1080p)" group-title="Sports",TSN1 (1080p)
-http://40.160.24.55/TSN_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" tvg-name="USA Network (1080p)" group-title="Comedy;Movies;Series;Sports",USA Network (1080p)
 http://40.160.24.55/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png" tvg-name="VH1 (720p)" group-title="Music",VH1 (720p)
