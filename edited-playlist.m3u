@@ -49,8 +49,6 @@ https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/mast
 http://40.160.24.53/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWmqYTO.png" tvg-name="Lifetime Movies (1080p)" group-title="Movies",Lifetime Movies (1080p)
 http://23.237.104.106:8080/USA_LMN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sA5V39D.png" tvg-name="MLB Network (1080p)" group-title="Sports",MLB Network (1080p)
-https://gpuserver3.tier1streams.com/MLB_Network/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" tvg-name="Mr. Bean Animated (1080p)" group-title="Animation;Kids",Mr. Bean Animated (1080p)
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-name="MTV (720p)" group-title="Entertainment",MTV (720p)
