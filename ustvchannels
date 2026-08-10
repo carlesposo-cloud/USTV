@@ -3,36 +3,26 @@
 https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KoGko6M.png" tvg-name="90s Throwback" group-title="Movies",90s Throwback
 https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vfdN5Xl.png" tvg-name="Always Funny Videos (720p)" group-title="Series",Always Funny Videos (720p)
-https://d24l3uppudokci.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TOB9vmW.png" tvg-name="America’s Funniest Home Videos (1080p)" group-title="Comedy",America’s Funniest Home Videos (1080p)
 https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" tvg-name="American Horrors (480p)" group-title="Movies",American Horrors (480p)
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AHaXlCh.png" tvg-name="Anime Zone TV (480p)" group-title="Animation",Anime Zone TV (480p)
-http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-name="AXN (720p)" group-title="Movies",AXN (720p)
 http://45.190.28.50/AXN_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-name="BBC Earth (1080p)" group-title="Documentary",BBC Earth (1080p)
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kcmHcSx.png" tvg-name="BBC Food (1080p)" group-title="Cooking",BBC Food (1080p)
 https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" tvg-name="beIN Sports USA (1080p) [Geo-blocked]" group-title="Sports",beIN Sports USA (1080p) [Geo-blocked]
-https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VBKoLHk.png" tvg-name="Bellator MMA" group-title="Sports",Bellator MMA
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG_1759338280891.png" tvg-name="BET Cinema" group-title="Movies",BET Cinema
 https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61326275b3c86a00078e4833/colorLogoPNG_1759340015358.png" tvg-name="BET Throwbacks" group-title="Comedy",BET Throwbacks
 https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SjTdhvJ.png" tvg-name="CBC News (1080p)" group-title="News",CBC News (1080p)
-https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png" tvg-name="Comedy Central (1080p)" group-title="Comedy",Comedy Central (1080p)
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uENch0P.png" tvg-name="Comedy Central Animation" group-title="Comedy",Comedy Central Animation
 https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2FlIQUO.png" tvg-name="Crunchyroll (720p)" group-title="Animation",Crunchyroll (720p)
-https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-name="Disney Channel (720p)" group-title="Kids",Disney Channel (720p)
 http://190.14.10.19:16000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" tvg-name="Disney XD (720p)" group-title="Kids",Disney XD (720p)
@@ -69,8 +59,6 @@ http://40.160.24.53/LIFETIME/index.m3u8
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lOuySbz.png" tvg-name="MasterChef" group-title="Series",MasterChef
 https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" tvg-name="MAX Anime (1080p)" group-title="Animation",MAX Anime (1080p)
-https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sA5V39D.png" tvg-name="MLB Network (1080p)" group-title="Sports",MLB Network (1080p)
 https://gpuserver3.tier1streams.com/MLB_Network/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" tvg-name="Mr. Bean Animated (1080p)" group-title="Animation;Kids",Mr. Bean Animated (1080p)
@@ -125,3 +113,5 @@ http://40.160.24.55/USA_NETWORK/index.m3u8
 http://40.160.24.55/VH1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KVTNBFr.png" tvg-name="Wipeout" group-title="Series",Wipeout
 https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
+#EXTINF:-1 tvg-name="New Channel" group-title="Uncategorized",New Channel
+
