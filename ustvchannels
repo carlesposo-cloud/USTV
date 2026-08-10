@@ -99,3 +99,5 @@ http://40.160.24.55/USA_NETWORK/index.m3u8
 http://40.160.24.55/VH1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KVTNBFr.png" tvg-name="Wipeout" group-title="Series",Wipeout
 https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
+#EXTINF:-1 tvg-name="AniPlus" group-title="Uncategorized",AniPlus
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
