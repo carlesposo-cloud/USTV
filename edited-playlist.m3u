@@ -31,16 +31,16 @@ http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 http://40.160.24.53/HISTORY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-name="Bien Sports" group-title="Sports",Bien Sports
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" tvg-name="ESPN (1080p)" group-title="Sports",ESPN (1080p)
-http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" tvg-name="Red Bull" group-title="Sports",Red Bull
+https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" tvg-name="FIFA+ United States (720p)" group-title="Sports",FIFA+ United States (720p)
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-name="Fox" group-title="Sports",Fox
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" tvg-name="NBA TV (1080p)" group-title="Sports",NBA TV (1080p)
 https://cdn1.ayitistream.com/NBATV/index.m3u8
-#EXTINF:-1 tvg-name="Sky Sports" group-title="Sports",Sky Sports
-https://xemzi.short.gy/2000009
+#EXTINF:-1 tvg-name="TSN" group-title="Sports",TSN
+http://40.160.24.55/TSN_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tsljAnY.png" tvg-name="Tennis Channel (1080p)" group-title="Sports",Tennis Channel (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uENch0P.png" tvg-name="Comedy Central Animation" group-title="Comedy",Comedy Central Animation
