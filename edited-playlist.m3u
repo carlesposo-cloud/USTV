@@ -95,3 +95,5 @@ https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 http://40.160.24.55/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="Premier Football" group-title="Uncategorized",Premier Football
 https://streams.comclark.com/pknhd/premier_football/playlist.m3u8
+#EXTINF:-1 tvg-name="FXX" group-title="Uncategorized",FXX
+http://23.237.104.106:8080/USA_FXX/index.m3u8
